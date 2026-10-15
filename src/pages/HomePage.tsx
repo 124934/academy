@@ -124,7 +124,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenEnroll }) 
             {/* Left Content */}
             <div className="lg:col-span-6 text-center lg:text-left space-y-5">
               {/* Main Heading: Premier International Islamic Online Academy */}
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-extrabold text-[#072C1E] leading-[1.18] tracking-tight">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-serif font-extrabold text-black leading-[1.18] tracking-tight">
                 Premier International Islamic Online Academy
               </h1>
 
